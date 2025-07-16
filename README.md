@@ -28,8 +28,8 @@
 
 
 <h2> 📃  Certifications</h2>
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- 2025 [Microsoft Certified: Fabric Data Engineer Associate certification ( DP-700 )]([https://www.youtube.com/watch?v=a83ASGn_V_s](https://github.com/EngKarimEssam/Portfolio/blob/main/03.Microsoft%20Certified%20Fabric%20Data%20Engineer%20Associate%20certification%20(%20DP-700%20).jpeg?raw=true))
+
 
 
 <h2> 🤳 Connect with me:</h2>
