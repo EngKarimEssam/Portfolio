@@ -40,6 +40,13 @@
 
 <h2> 📃  Certifications</h2>
 
+
+-[[2025] Microsoft Certified: Fabric Data Engineer Associate certification ( DP-700 )](https://github.com/EngKarimEssam/Portfolio/blob/main/03.Microsoft%20Certified%20Fabric%20Data%20Engineer%20Associate%20certification%20(%20DP-700%20).jpeg?raw=true)
+-
+-
+
+
+
 [2025] Microsoft Certified: Fabric Data Engineer Associate certification ( DP-700 )
 https://github.com/EngKarimEssam/Portfolio/blob/main/03.Microsoft%20Certified%20Fabric%20Data%20Engineer%20Associate%20certification%20(%20DP-700%20).jpeg?raw=true
 
