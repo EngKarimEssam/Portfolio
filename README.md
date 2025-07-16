@@ -27,8 +27,33 @@
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 
+
+
+
+
+
+
+
+
+
+
+
 <h2> 📃  Certifications</h2>
 - 2025 [Microsoft Certified: Fabric Data Engineer Associate certification ( DP-700 )](https://www.youtube.com/watch?v=a83ASGn_V_s)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
